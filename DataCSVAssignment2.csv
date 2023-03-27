@@ -1,0 +1,15 @@
+Category,Number_of_families,Number_of_samples
+Adware,48,"47,210"
+Backdoor,11,"1,538"
+File Infector,5,669
+No_Category,,"2,296"
+PUA,8,"2,051"
+Ransomware,8,"6,202"
+Riskware,21,"97,349"
+Scareware,3,"1,556"
+Trojan,45,"13,559"
+Trojan-Banker,11,887
+Trojan-Dropper,9,"2,302"
+Trojan-SMS,11,"3,125"
+Trojan-Spy,11,"3,540"
+Zero-day,,"13,340"
